@@ -27,6 +27,6 @@ Prepare a PDF (it makes is easier for TA to grade).
 
 1.	Show each Pull request from (one originated from each group member)
 
-![alt text](https://github.com/olekaspt/SA_Assignment0/blob/main/sa_0_pic1.png "Pic1")
+![alt text](https://github.com/olekaspt/SA_Assignment0/blob/main/sa_0_pic2.png "Pic2")
 
 1. 4)	And then answer this question.  What other Actions do you think should be considered as required before closing a merge request?
