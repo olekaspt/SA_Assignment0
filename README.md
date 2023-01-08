@@ -23,5 +23,5 @@ Prepare a PDF (it makes is easier for TA to grade).
 1. Show link to your github repo.
 1.	Show list of closed pull requests (like below)
 
-![alt text](https://github.com/olekaspt/SA_Assignment0/blob/main/sa_0_pic1.png "Pic1")
+![alt text](https://github.com/olekaspt/SA_Assignment0/blob/main/sa_0_pic3.png "Pic1")
 
