@@ -12,7 +12,7 @@ Now that we have done a quick demo run.
 Now let’s do:
 
 1.	Setup the Repo to require approvers (see lecture and slide deck)
-1.	Add you group member and olekaspt@uc.mail.edu and TA (nagamasa@mail.uc.edu )
+1.	Add you group member and olekaspt@uc.mail.edu and assigned TA available on the Teams site
 1.	Setup a pull request for yet another simple readme file change and put your partner down as approver.
 1.	Approve each others readme changes
 1.	Merge the pull the request
