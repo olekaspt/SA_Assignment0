@@ -11,8 +11,7 @@ Now that we have done a quick demo run.
 
 Now let’s do:
 
-1.	Setup the Repo to require approvers (see lecture and slide deck)
-1.	Add you group member and olekaspt@uc.mail.edu and assigned TA available on the Teams site
+1.	Setup the Repo to require approvers (see lecture and slide deck), and make it public so TA and me can access it 
 1.	Setup a pull request for yet another simple readme file change and put your partner down as approver.
 1.	Approve each others readme changes
 1.	Merge the pull the request
@@ -21,7 +20,7 @@ The end result should be a ReadMe file that was modified by two different users.
 
 Prepare a PDF (it makes is easier for TA to grade).
 1. Show link to your github repo.
-1.	Show list of closed pull requests (like below)
+1. Show list of closed pull requests (like below)
 
 ![alt text](https://github.com/olekaspt/SA_Assignment0/blob/main/sa_0_pic3.png "Pic1")
 
